@@ -16,7 +16,7 @@ Start with debugging from the Visual Studio menu, or click the green Start arrow
 •	If the user selects to view recipe list, they will be given a list of recipes from which they can select which one they would like to view.
 •	The user will be able to filter out the list of recipes by entering the name of an ingredient that must be in a recipe, choosing a food group that must be in the recipe or selecting a maximum number of calories.
 
-b.	https://github.com/ST10154104/RecipeApplicationPart3-Final-POE-.git
+b.	https://github.com/ST10154104/RecipeApplicationFinalPOE.git
 
 
 c.	Upon receiving feedback from my lecturer, I have made several changes to my application. For part 2 of my assignment, my project was able to display a full list of recipes saved by the user but unfortunately it was not stored in alphabetical order, so I was encouraged by my lecturer to improve on that. Although my program was running and it did everything it was supposed to, it was not very user friendly. For part 3 of my assignment, I therefore had to make an effort to make it easier for the user. I did that by giving the user options the user more options to choose from when selecting a food category because not everybody is aware of the different types of food groups. 
